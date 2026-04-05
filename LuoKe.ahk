@@ -799,7 +799,7 @@ ShowStartupGuide() {
 GetUsageGuideText() {
     guideText := "1. 推荐在卡洛西亚大陆家门口设置传送点，因为那里没有怪物。`n`n"
     guideText := guideText "2. 背包带好 6 只奇丽花：1 号位用灵巧，2 到 6 号位用爱分享。`n`n"
-    guideText := guideText "3. 传送到设置好的传送点后，调整时间为早上（注意调整时间之后鼠标不要键盘移动），开启脚本即可。`n`n"
+    guideText := guideText "3. 传送到设置好的传送点后，开启脚本即可；脚本会自动执行游戏内调到早上的按键步骤，执行期间尽量不要鼠标键盘干预。`n`n"
     guideText := guideText "4. 脚本默认动作表情按键是 P；如果你在游戏里改了键位，请在脚本设置里的“动作表情按键”同步修改。`n`n"
     guideText := guideText "5. 建议先设置 1 分钟循环，观察 3 次确认无误后，再改成你平时要用的挂机时长。"
     return guideText
