@@ -1,0 +1,14 @@
+# Local runtime config
+LuoKe.ini
+
+# Build output
+dist/
+
+# Editor and OS noise
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Temp files
+*.tmp
+*.bak
